@@ -1,0 +1,6 @@
+[submodule "3party/AndEnginePhysicsBox2DExtension"]
+	path = 3party/AndEnginePhysicsBox2DExtension
+	url = https://github.com/nicolasgramlich/AndEnginePhysicsBox2DExtension
+[submodule "3party/AndEngine"]
+	path = 3party/AndEngine
+	url = https://github.com/nicolasgramlich/AndEngine
