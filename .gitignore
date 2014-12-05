@@ -1,0 +1,7 @@
+.metadata
+RemoteSystemTempFiles
+*.properties
+*.o
+*.asm
+.settings
+.project
